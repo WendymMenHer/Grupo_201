@@ -1,2 +1,2 @@
-# Grupo_201
-Práctica de entrenamiento del grupo 201 en ciencia de datos 
+# Grupo_102
+Práctica de entrenamiento del grupo 102 en ciencia de datos 
